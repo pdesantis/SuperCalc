@@ -409,6 +409,7 @@
 				FA2065F71B1FDF0900FCA5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FA2065F81B1FDF0900FCA5E7 /* Build configuration list for PBXNativeTarget "SuperCalcTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				FA2065FA1B1FDF0900FCA5E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
